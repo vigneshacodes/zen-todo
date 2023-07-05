@@ -119,7 +119,7 @@ function App() {
         <select value={filter} className='all' name='filter' onChange={(e) => setFilter(e.target.value)}>
           <option value="All" className='all'>All</option>
           <option value="Completed" className='complete'>Completed</option>
-          <option value="Not Completed">Not Completed</option>
+          <option value="Not Completed" className='incomplete'>Not Completed</option>
         </select>
         </div>
       </div>
