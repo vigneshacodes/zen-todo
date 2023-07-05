@@ -38,7 +38,7 @@
 }
 
 h1 {
-  color: #0563BB;
+  color: #005566;
 }
 
 .des {
@@ -51,38 +51,41 @@ h1 {
   display: inline-flex;
   align-items: center;
   justify-content: space-between;
+  color: #005566;
 }
 
+.all{
+  background-color: azure;
+}
 .complete {
   background-color: rgb(16,175,137);
 }
-
+.incomplete{
+  background-color: rgb(208,94,31);
+}
 .nam {
  
   width: 350px;
 }
 
 input {
-  border: 2px solid rgb(169, 248, 228);
+  border: 2px solid #005566;
   border-radius: 5px;
   padding: 10px;
 }
 
 input:hover {
-  border: 2px solid rgb(169, 248, 228);
+  border: 2px solid #005566;
 }
 
-.all {
-  background-color: rgb(255,128,129);
-}
 
 input:active {
-  border: 2px solid rgb(169, 248, 228);
+  border: 2px solid #005566;
 }
 .ad {
   background-color: white;
-  color: #0563BB;
-  border: 2px solid #0563BB;
+  color: #005566;
+  border: 2px solid #005566;
   height: 40px;
     width: 120px;
     display: inline-flex;
@@ -91,7 +94,7 @@ input:active {
 }
 
 .ad:hover {
-  background-color: #0563BB;
+  background-color: #005566;
   color: white;}
 
 .card {
