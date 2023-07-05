@@ -2,7 +2,6 @@ React ToDo Activity
 
 Website Link : https://todo-zen.netlify.app/
 
-![todo1](https://github.com/vigneshacodes/zen-todo/assets/134355192/81a14a37-a32c-498b-b6a2-5e7b2a669cbc)
+![Capture](https://github.com/vigneshacodes/zen-todo/assets/134355192/7a16c5aa-62e0-47ab-a0fe-f899a6b278b1)
 
-![todo2](https://github.com/vigneshacodes/zen-todo/assets/134355192/91d78bc4-16a8-4b4d-8cfd-f17f1a78228c)
-
+![Capture2](https://github.com/vigneshacodes/zen-todo/assets/134355192/5c8e412e-2151-4c1b-9184-1f665138b446)
